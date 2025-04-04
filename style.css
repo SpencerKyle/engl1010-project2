@@ -94,6 +94,12 @@ a:visited
     color: black;
 }
 
+a
+{
+    color: black;
+    text-decoration: none;
+}
+
 .gallery
 {
     text-align: center;
